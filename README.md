@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Garg</h1>
-<h3 align="center">Competitive Programmer and Software Developer</h3>
+<h3 align="center">Competitive Programming | Web Development | Machine Learning | Undergraduate Research </h3>
 
 - 🌱 I’m currently learning **Computer Science**
 
