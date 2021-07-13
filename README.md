@@ -23,7 +23,7 @@
 <a href="https://medium.com/@rohitgarg025" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/2018a7ps0193g" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="2018a7ps0193g"/></a>
   <a href="https://leetcode.com/user6889l/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/></a>
-<a href="https://codeforces.com/profile/rohitgarg42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rohitgarg42" height="30" width="40" /></a>
+<a href="mailto:rohitgarg025@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rohitgarg42" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
