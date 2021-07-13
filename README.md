@@ -12,10 +12,9 @@
 - 📫 How to reach me **rohitgarg025@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing](https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing)
-<!-- 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
+
+<!-- ### Blogs posts -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
