@@ -20,8 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohit-garg-7b2418187" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@rohitgarg025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@rohitgarg025" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/2018a7ps0193g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="2018a7ps0193g" height="30" width="40" /></a>
+<a href="https://medium.com/@rohitgarg025" target="blank"><img align="center" src="	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@rohitgarg025"/></a>
+<a href="https://www.hackerrank.com/2018a7ps0193g" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="2018a7ps0193g"/></a>
+  <a href="https://leetcode.com/user6889l/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/></a>
 <a href="https://codeforces.com/profile/rohitgarg42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rohitgarg42" height="30" width="40" /></a>
 </p>
 
