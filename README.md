@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Database Management, Machine Learning, Signal Processing, Data Science, Front-end Development**
 
-- 📫 How to reach me **rohitgarg025@gmail.com**
+- 📫 Interested in collaborating? **rohitgarg025@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing](https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing)
 
