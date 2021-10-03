@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Garg</h1>
 <h3 align="center">Competitive Programming | Web Development | Machine Learning | Undergraduate Research </h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently pursuing **Computer Science** at BITS Pilani
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohitgarg025](https://github.com/rohitgarg025)
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Database Management, Machine Learning, Signal Processing, Data Science, Front-end Development**
 
-- 📫 Interested in collaborating? **rohitgarg025@gmail.com**
+- 📫 Interested in collaborating? Drop an email on **rohitgarg025@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing](https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing)
 
