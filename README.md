@@ -11,7 +11,7 @@
 
 - 📫 Interested in collaborating? Drop an email on **rohitgarg025@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing](https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing)
+- 📄 Want to know about my experiences? **Resume**: [https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing](https://drive.google.com/file/d/1xV1-_fYie7Wyy87W13DWyg7vnQOflfs1/view?usp=sharing)
 
 <!-- ### Blogs posts -->
 
